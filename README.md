@@ -1,6 +1,6 @@
 ## Web Developer | Front-End Enthusiast :computer: :art:
 
-👋 Hey there! I'm [Your Name], a passionate web developer with a love for crafting engaging and responsive user interfaces. I thrive on turning ideas into beautifully functional websites that leave a lasting impression.
+👋 Hey there! I'm Youssef Loay, a passionate web developer with a love for crafting engaging and responsive user interfaces. I thrive on turning ideas into beautifully functional websites that leave a lasting impression.
 
 ### What I Do
 
@@ -12,7 +12,7 @@
 
 ### Tools in My Arsenal
 
-- 🧰 Frameworks: React, Vue.js
+- 🧰 Frameworks: React, NextJS
 - 🎨 Design: Figma, Adobe XD
 - 🚀 Build Tools: Webpack, Babel
 - 📊 Version Control: Git, GitHub
@@ -26,8 +26,7 @@
 ### Let's Connect
 
 - 📫 Feel free to reach out for collaboration or just to say hi!
-- 💼 Check out my portfolio: [Your Portfolio Link]
-- 🐦 Twitter: [@YourTwitterHandle]
-- 📷 Instagram: [@YourInstagramHandle]
+- 💼 Check out my portfolio: https://youssefloayportfolio.vercel.app/
+- 🔗 LinkedIn: Youssefloay(https://www.linkedin.com/in/youssefloay/)
 
 Looking forward to creating awesome web experiences together! :rocket:
