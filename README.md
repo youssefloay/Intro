@@ -1,33 +1,43 @@
-## Web Developer | Front-End Enthusiast :computer: :art:
+# 👋 Hey there, I'm Youssef Loay!
 
-👋 Hey there! I'm Youssef Loay, a passionate web developer with a love for crafting engaging and responsive user interfaces. I thrive on turning ideas into beautifully functional websites that leave a lasting impression.
+🚀 **Passionate Front-End Developer | 4+ Years of Experience**
 
-### What I Do
+I'm a **JavaScript & React enthusiast** who loves crafting **fast, scalable, and user-friendly** web applications. With a strong background in **Next.js, TypeScript, and UI/UX design**, I bring ideas to life through code, making sure every project is both visually appealing and highly performant.
 
-- 💻 Front-End Development: HTML5, CSS3, JavaScript (ES6+)
-- 🖌️ UI/UX Design: Creating intuitive and visually appealing interfaces
-- ⚙️ Web Accessibility: Ensuring inclusive web experiences
-- 🚀 Performance Optimization: Speeding up websites for better user experiences
-- 🌐 Cross-Browser Compatibility: Making sure your site works everywhere
+---
 
-### Tools in My Arsenal
+## 🛠️ Tech Stack
 
-- 🧰 Frameworks: React, NextJS
-- 🎨 Design: Figma, Adobe XD
-- 🚀 Build Tools: Webpack, Babel
-- 📊 Version Control: Git, GitHub
-- 🌐 Front-End Libraries: Bootstrap, Tailwind CSS
+- **Frontend:** React.js, Next.js, TypeScript, TailwindCSS, MUI
+- **Backend:** Node.js, Express, MongoDB, Firebase
+- **Tools & Workflow:** Git, GitHub, Docker, CI/CD, Agile/Scrum
+- **UI/UX & Design:** Figma, Framer Motion, Responsive Design
 
-### Currently Learning
+---
 
-- 📚 Always exploring new JavaScript libraries and frameworks
-- 🌐 Keeping up with the latest web development trends
+## 🌟 Featured Projects
 
-### Let's Connect
+🔹 **[ImageAI](https://github.com/YOUR_REPO)** → AI-powered image enhancement platform (Client project) *(Ongoing, delivery by end of the month)*  
+🔹 **[Baratiart](https://baratiart.com)** → E-commerce for art sales, built with WordPress & WooCommerce  
+🔹 **[WT Watch](https://wtwatch.netlify.app/)** → A sleek weather app with real-time updates and a beautiful UI  
 
-- 📫 Feel free to reach out for collaboration or just to say hi!
-- 💼 Check out my portfolio: https://youssefloayportfolio.vercel.app/
-- 🔗 LinkedIn: Youssefloay(https://www.linkedin.com/in/youssefloay/)
-- 📧 Email: Youssefloay@gmail.com
+✏️ More projects? Check out my **[Portfolio](https://youssefloayportfolio.vercel.app)**
 
-Looking forward to creating awesome web experiences together! :rocket:
+---
+
+## 📈 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssefloay&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefloay&layout=compact&theme=tokyonight)  
+
+---
+
+## 📢 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/youssefloay)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/youssefloay)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=web)](https://youssefloayportfolio.vercel.app)  
+
+---
+
+💡 *"Code is poetry. Let's build something amazing together!"* 🚀
