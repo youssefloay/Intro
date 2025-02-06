@@ -19,7 +19,7 @@ I'm a **JavaScript & React enthusiast** who loves crafting **fast, scalable, and
 
 🔹 **[ImageAI](https://github.com/youssefloay/ImageAI)** → AI-powered image enhancement platform (Client project) *(Ongoing, delivery by end of the month)*  
 🔹 **[Baratiart](https://baratiart.com)** → E-commerce for art sales, built with WordPress & WooCommerce  
-🔹 **[WT Watch](https://wtwatch.netlify.app/)** → A sleek weather app with real-time updates and a beautiful UI  
+🔹 **[WT Watch](https://wtwatch.netlify.app/)** → A sleek movies app with real-time updates and a beautiful UI  
 
 ✏️ More projects? Check out my **[Portfolio](https://youssefloayportfolio.vercel.app)**
 
